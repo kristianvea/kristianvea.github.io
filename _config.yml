@@ -1,8 +1,8 @@
-excerpt_separator: ""
+excerpt_separator: "."
 pygments: true
 markdown: kramdown
 url: http://kristianvea.github.io
 title: Kristian Vea
 tagline: Om politikk, samfunn og arkitektur
-description: Kristian Vea er folkevalgt for Miljøpartiet De Grønne på Grünerløkka i Oslo.
+description: Kristian Vea er folkevalgt for MiljÃ¸partiet De GrÃ¸nne pÃ¥ GrÃ¼nerlÃ¸kka i Oslo.
 paginate: 5
