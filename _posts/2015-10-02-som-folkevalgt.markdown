@@ -2,6 +2,8 @@
 published: false
 title: Som folkevalgt
 layout: post
+tags: [folkevalgt, grünerløkka, demokrati]
+categories: [personlig, demokrati]
 permalink: folkevalgt
 ---
 I år ble jeg folkevalgt. Valgt av folket. Riktig nok som vararepresentant, men det i en bydel ville vært landets 14. største by alene, på størrelse med Lillehammer og Gjøvik slått sammen. Det var en milepæl for meg. Jeg har alltid vært politisk interessert, og har alltid hatt stor respekt for politikere – i alle fall de fleste av dem. Nå har tilfeldighetene tatt meg fra et engasjement i stortingsvalgkampen 2013 til min første "ordentlige" rolle i politikken, og jeg er blitt en av dem. Politiker.
@@ -16,4 +18,4 @@ Jeg tror folkevalgte trenger å bli mer synlige. Ikke reklameplakat-synlige, men
 
 Derfor har jeg opprettet denne lille plattformen på nett. Ikke for å promotere mine syn på ting – selv om jeg kommer til å skrive om det også – men for å gjøre meg selv litt mer tilgjengelig.
 
-Takk for tilliten, Grünerløkka! 
+Takk for tilliten, Grünerløkka!
